@@ -10,6 +10,8 @@
 # ComparisonTesting.m: Visualization of the different fits found in FinalFile.m and their respective experimental data. Also has some handpicked values.
 #		These values are the values for every experimental dataset for which the RSME is minimal (for all models tried on it).
 #
+# Photos-New: Contains Excel files with the data gained from Fiji.
+#
 #################################################################################################################################################
 # Underlying/ lesser files
 #
